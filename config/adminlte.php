@@ -350,7 +350,7 @@ return [
             'icon' => 'fas fa-fw fa-lock',
         ],*/
         [
-            'text' => 'Graficas de tikets y estadisticas',
+            'text' => 'Graficas de tickets y estadisticas',
             'icon' => 'fas fa-fw fa-share',
             'submenu' => [
                 [
