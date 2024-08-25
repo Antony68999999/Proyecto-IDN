@@ -139,16 +139,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                @endforeach
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- View Ticket Modal -->
+                                    <!-- View Ticket Modal -->
 <div class="modal fade" id="viewTicketModal-{{ $ticket->id }}" tabindex="-1" role="dialog" aria-labelledby="viewTicketModalLabel-{{ $ticket->id }}" aria-hidden="true">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
@@ -176,6 +167,16 @@
         </div>
     </div>
 </div>
+                                @endforeach
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <!-- Create Ticket Modal -->
 <div class="modal fade" id="createTicketModal" tabindex="-1" role="dialog" aria-labelledby="createTicketModalLabel" aria-hidden="true">
