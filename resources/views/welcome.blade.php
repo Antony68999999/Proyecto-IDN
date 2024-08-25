@@ -71,7 +71,7 @@
             </nav>
         </header>
         <div class="max-w-7xl mx-auto px-6 lg:px-8 py-4 flex flex-col items-center justify-center h-full">
-           <br> <h1 class="text-4xl font-bold text-center">PLATAFORMA PARA TICKETS DE SOPORTE <br>IDN</h1>
+           <br> <h1 class="text-4xl font-bold text-center">PLATAFORMA PARA TICKESTS DE SOPORTE <br>IDN</h1>
         </div>
     </div>
 </body>
